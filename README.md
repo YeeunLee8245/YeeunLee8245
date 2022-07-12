@@ -22,7 +22,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeeunLee8245&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=scss,html" />
   </a>
 </p>
-<h3 align="center">💡 YeeunLee8245 💡</h3>
+<h3 align="center">💡 My Git Statistics 💡</h3>
 <p align="center">
   <a href="https://github.com/YeeunLee8245">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeeunLee8245&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
