@@ -8,13 +8,11 @@
 - Coroutine
 - Retrofit2, Okhttp3
 <br/>
-<br/>
 
 ### 🖥 Tools 🖥
 
 - Android Studio, IntelliJ, Visual Studio Code, Pycharm
 - Firebase - Database, Annalytics
-<br/>
 <br/>
 
 <h3 align="left">💡 My Most Used Languages 💡</h3>
@@ -23,6 +21,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeeunLee8245&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=scss,html" />
   </a>
 </p>
+<br/>
+
 <h3 align="left">💡 My Git Statistics 💡</h3>
 <p align="left">
   <a href="https://github.com/YeeunLee8245">
