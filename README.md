@@ -12,7 +12,7 @@
 
 ### 🖥 Tools 🖥
 
-- AndroidStudio, IntelliJ, Pycharm
+- Android Studio, IntelliJ, Visual Studio Code, Pycharm
 - Firebase - Database, Annalytics
 <br/>
 <br/>
