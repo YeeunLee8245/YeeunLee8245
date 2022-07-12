@@ -6,6 +6,7 @@
 - MVVM Pattern
 - Jetpack(ViewModel, LiveData, DataBinding)
 - Coroutine
+- Retrofit2, Okhttp3
 <br/>
 <br/>
 
