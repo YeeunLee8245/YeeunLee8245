@@ -12,7 +12,7 @@
 ### 🖥 Tools 🖥
 
 - Android Studio, IntelliJ, Visual Studio Code, Pycharm
-- Firebase - Database, Annalytics
+- MySQL, Firebase - Database, Annalytics
 <br/>
 
 <h3 align="left">💡 My Most Used Languages 💡</h3>
