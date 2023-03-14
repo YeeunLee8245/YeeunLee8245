@@ -4,15 +4,15 @@
 
 - Kotlin, Python, Java
 - MVVM Pattern
-- Jetpack(ViewModel, LiveData, DataBinding)
+- Jetpack(ViewModel, LiveData, Paging3, Navigation, ViewBinding, DataBinding)
 - Coroutine
-- Retrofit2, Okhttp3
+- Retrofit2, OkHttp3
 <br/>
 
 ### 🖥 Tools 🖥
 
 - Android Studio, IntelliJ, Visual Studio Code, Pycharm
-- MySQL, Firebase - Database, Annalytics
+- MySQL, Firebase(Database, Annalytics)
 <br/>
 
 <h3 align="left">💡 My Most Used Languages 💡</h3>
