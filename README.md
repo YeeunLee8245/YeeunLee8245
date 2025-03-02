@@ -6,7 +6,7 @@
 	- Typescript, Javascript
    	- React, Nextjs
 	- Atomic Pattern
-	- TanStack, Zustand, Jotai, Shadcn Ui, Tailwind
+	- TanStack, Zustand, Jotai, Shadcn Ui, Tailwind, SCSS
 	- Eslint
 - Android
 	- Kotlin, Java
