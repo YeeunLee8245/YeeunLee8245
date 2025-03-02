@@ -7,7 +7,7 @@
    	- React, Nextjs
 	- Atomic Pattern
 	- TanStack, Zustand, Jotai, Shadcn Ui, Tailwind
-	- Eslint, Sentry
+	- Eslint
 - Android
 	- Kotlin, Java
 	-  MVVM Pattern
@@ -18,8 +18,8 @@
 
 ### 🖥 Tools 🖥
 
-- Android Studio, IntelliJ, Visual Studio Code, Pycharm
-- MySQL, Firebase(Database, Annalytics)
+-  Visual Studio Code, Android Studio, IntelliJ, Pycharm
+-  Sentry, Firebase(Database, Annalytics)
 <br/>
 
 <h3 align="left">💡 My Most Used Languages 💡</h3>
