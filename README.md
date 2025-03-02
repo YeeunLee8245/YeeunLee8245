@@ -10,10 +10,9 @@
 	- Eslint
 - Android
 	- Kotlin, Java
-	-  MVVM Pattern
 	- Jetpack(ViewModel, LiveData, Paging3, Navigation, ViewBinding, DataBinding)
-	- Coroutine
-	- Retrofit2, OkHttp3
+	-  MVVM Pattern
+	- Coroutine, Retrofit2, OkHttp3
 <br/>
 
 ### 🖥 Tools 🖥
