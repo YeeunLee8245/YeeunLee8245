@@ -2,11 +2,18 @@
 
 ### 🍳 Skills 🍳
 
-- Kotlin, Python, Java
-- MVVM Pattern
-- Jetpack(ViewModel, LiveData, Paging3, Navigation, ViewBinding, DataBinding)
-- Coroutine
-- Retrofit2, OkHttp3
+- Web
+	- Typescript, Javascript
+	- Atomic Pattern
+	- React, Next js
+	- TanStack, Zustand, Jotai, Shadcn Ui, Tailwind
+	- Eslint, Sentry
+- Android
+	- Kotlin, Java
+	-  MVVM Pattern
+	- Jetpack(ViewModel, LiveData, Paging3, Navigation, ViewBinding, DataBinding)
+	- Coroutine
+	- Retrofit2, OkHttp3
 <br/>
 
 ### 🖥 Tools 🖥
