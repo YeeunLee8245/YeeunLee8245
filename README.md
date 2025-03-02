@@ -4,8 +4,8 @@
 
 - Web
 	- Typescript, Javascript
+   	- React, Nextjs
 	- Atomic Pattern
-	- React, Next js
 	- TanStack, Zustand, Jotai, Shadcn Ui, Tailwind
 	- Eslint, Sentry
 - Android
